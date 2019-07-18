@@ -13,7 +13,7 @@ public class User {
     private Gson g = new Gson();
     private JsonObject user;
     private JsonArray data;
-    static final String datapath = "./刘文杰/Hmk_0617_chat/server/data.json";
+    static final String datapath = "./src/server/data.json";
 
     public User(String username,String password){
         this.username = username;
