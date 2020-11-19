@@ -1,9 +1,9 @@
 # Java Group Chat System
 ## **Library**
-  -- Gson 2.8.5 for json resolve
-  -- Java Socket
+  ### Gson 2.8.5 for json resolve
+  ### Java Socket
 ## **User Database**
-  -- Via server.data.json
+  ### Via server.data.json
 ## **Package structure**
   -- server (Server)
   
