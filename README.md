@@ -4,7 +4,7 @@
 ## **User Database**
   Via server.data.json
 ## **Package structure**
-  -- server
+  -- server (Server)
   
     -- Server.java -- Server Main Class
     
@@ -12,7 +12,7 @@
     
     -- User.java -- User datastructure and control json.
     
-  -- graphClient
+  -- graphClient (Client with UI)
   
     -- Listener.java -- Listen the action of frame
     
@@ -26,7 +26,7 @@
     
     -- WriteThread.java -- Write thread of Client
     
-  -- commandLineClient
+  -- commandLineClient (Client without UI, CommandLine Interface)
   
     -- Client.java -- Main Client Class. Handle the action
     
